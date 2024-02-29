@@ -14,6 +14,8 @@ Our project features two different modes of play: user mode and AI mode. In user
 
 We also developed a user-friendly graphical user interface (GUI) using HTML, CSS, and JS that allows users to interact with the game, see the AI algorithm in action, and control the speed in AI mode.
 
+![image](https://github.com/Momen-Odeh/Tower-of-Hanoi-AI-Project/assets/92532348/a1fc915a-d834-41aa-a34b-e347ae743d1b)
+
 Working on this project was a great learning experience for us, and we gained valuable insights into AI algorithms and problem-solving. We are excited to tackle more challenging problems with AI in the future! 🚀
 
 visit this link to try the game 🔥:
